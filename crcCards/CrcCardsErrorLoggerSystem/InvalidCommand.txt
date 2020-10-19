@@ -1,0 +1,8 @@
+Class name: InvalidCommand
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Print out error message where the case that an invalid command is given
+
+Collaborators:

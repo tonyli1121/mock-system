@@ -1,0 +1,9 @@
+Class name: CurrentRootDirectory
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Print out error message where the case that it is currently in root directory and can not
+  proceed backward
+
+Collaborators:

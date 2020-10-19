@@ -1,0 +1,11 @@
+Class name: CmdEcho
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'echo' command given user input
+
+Collaborators:
+* FileSystem
+* Path

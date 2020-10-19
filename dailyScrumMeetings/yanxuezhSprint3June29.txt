@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	- infinite testing
+	- infinite panic
+b) What do I plan to work in the next three days?
+	- coordinates with teammates
+	- assist others
+	- work with errors
+c) Am I blocked on anything?
+	- no

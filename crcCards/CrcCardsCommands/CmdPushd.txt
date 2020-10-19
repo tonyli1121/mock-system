@@ -1,0 +1,11 @@
+Class name: CmdPushd
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'pushd' command given user input
+
+Collaborators:
+* FileSystem
+* Path

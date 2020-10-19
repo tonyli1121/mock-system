@@ -1,0 +1,8 @@
+Class name: Validity
+
+Responsibilities:
+* checks the validity of input, prints error message if necessary
+
+Collaborators:
+* errorLoggerSystem
+* CommandsConstants

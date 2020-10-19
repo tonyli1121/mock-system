@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - Finished the Jshell driver
+    - makes input avaliable
+    - finished distinguish method for input
+    
+What do I plan to work in the next three days?
+    - makes the Jshell driver fits the requirements better
+    - collaborate with commands
+    - start working on commands if needed
+
+Am I blocked on anything?
+    - ErrorLogger, commands
+    - needs to have the errorlogger to be able to trim the directory input 
+    so that some commands can work on multiple directories at the same time 
+    if necessary

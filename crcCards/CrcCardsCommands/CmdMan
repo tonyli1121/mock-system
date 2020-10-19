@@ -1,0 +1,7 @@
+Class name: CommandMan
+Responsibilities:
+*Able to check if the input command is command man.
+*Return the documentation of valid input command.
+*Able to print out the command followed by parameters for the command.
+Collaborators:
+*Manual

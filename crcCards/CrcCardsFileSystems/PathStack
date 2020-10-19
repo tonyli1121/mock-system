@@ -1,0 +1,8 @@
+Class name: PathStack
+Responsibilities:
+*Find out whether the stack is empty or not.
+*Push a new path to the stack.
+*Pop a path from the end of the stack.
+Collaborators:
+*Path
+*

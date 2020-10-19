@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Fix bugs and adding new functions according to the piazza questions
+    - Handle extreme user input and report possible errors
+    - Help other team mates finish tasks
+    
+What do I plan to work in the next three days?
+    - Test
+
+Am I blocked on anything?
+    - Nah

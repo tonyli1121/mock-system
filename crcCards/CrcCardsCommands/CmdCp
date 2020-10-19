@@ -1,0 +1,13 @@
+Class name: CmdCp
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'cp' command given a user input and a FileSystem
+* Print the path that to be copied, and the path that the contents copied to.
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd

@@ -1,0 +1,13 @@
+Class name: CmdFind
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'find' command given a user input and FileSystem.
+* Print the command
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd

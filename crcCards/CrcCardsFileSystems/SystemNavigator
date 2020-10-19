@@ -1,0 +1,10 @@
+Class name: SystemNavigator
+Responsibilities:
+*Able to check the parent->child relation between paths
+*Able to show the directory/file tree of any directory
+*Able to move directory/file around the tree
+Collaborators:
+*File
+*Directory
+*Path
+*FileSystem

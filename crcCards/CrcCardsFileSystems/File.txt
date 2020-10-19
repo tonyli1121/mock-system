@@ -1,0 +1,7 @@
+Class name: File
+Responsibilities:
+*Get the data stored in the file.
+*Overwrite or append to the data stored in the file.
+*Get the name of the file.
+Collaborators:
+*

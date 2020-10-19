@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	- completed file and class
+	- completed basic methods for fileSystem
+	- designed navigation system
+b) What do I plan to work in the next three days?
+	- integrate the command class
+	- design the history tracing process
+c) Am I blocked on anything?
+	- everything came together

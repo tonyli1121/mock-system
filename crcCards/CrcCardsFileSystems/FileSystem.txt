@@ -1,0 +1,19 @@
+Class name: FileSystem
+Responsibilities:
+*Know the current working path and directory.
+*Return the list of element stored in a specific directory in the file system.
+*Check if a global or relative path exists.
+*Return a directory at a specific path.
+*Navigate into a relative or global path.
+*Create new directory at a specific path.
+*Create a new file with data or override/append to an existing file.
+*Get the data inside a file and print it.
+*Push a new directory into its path stack and navigate into it.
+*Pop a directory from its path stack and navigate into it.
+*Navigate into the previous directory.
+Collaborators:
+*Path
+*Directory
+*File
+*PathStack
+*Lib

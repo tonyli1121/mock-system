@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	- tried several problem approaches
+	- discovered Java file management system
+b) What do I plan to work in the next three days?
+	- finish the file system class
+	- implement complete exception system
+c) Am I blocked on anything?
+	- nooope

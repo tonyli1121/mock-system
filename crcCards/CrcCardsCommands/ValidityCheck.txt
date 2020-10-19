@@ -1,0 +1,4 @@
+Class name: ValidityCheck
+
+Responsibilities:
+* checks for validity for input arguments on if they contains special chars

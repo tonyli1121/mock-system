@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Working on ErrorLogger System
+    - Listing possible Errors and their corresponding message
+    
+What do I plan to work in the next three days?
+    - Complete the Documentation
+    - Complete the code
+
+Am I blocked on anything?
+    - No

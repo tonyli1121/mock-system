@@ -1,0 +1,10 @@
+Class name: CmdCat
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'cat' command given a user input and a FileSystem
+
+Collaborators:
+* FileSystem

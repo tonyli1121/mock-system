@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	- implement the save/load
+	- make sure the system is saved in correct recursion
+b) What do I plan to work in the next three days?
+	- save the history and path stack of the filesystem
+	- write unit test for save/load
+c) Am I blocked on anything?
+	- no

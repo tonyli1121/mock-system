@@ -1,0 +1,13 @@
+Class name: CmdLoad
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'load' command given a user input, a FileSystem and a HistoryTracker.
+* Print the command followed by param
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd

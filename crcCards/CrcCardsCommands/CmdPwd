@@ -1,0 +1,10 @@
+Class name: CmdPwd
+
+Responsibilities:
+* Print the current working directory.
+* Execute command pwd
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd

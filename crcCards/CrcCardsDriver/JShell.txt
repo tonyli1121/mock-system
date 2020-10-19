@@ -1,0 +1,10 @@
+Class name: JShell
+
+Responsibilities:
+* prompt to interact with user
+
+Collaborators:
+* FileSystem
+* Input
+* Execute
+* Validity

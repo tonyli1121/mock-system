@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	- brainstorm design ideas.
+	- started working on exit command
+    - brainstorm manual command
+b) What do I plan to work in the next three days?
+	- finish the work in first sprint backlog
+c) Am I blocked on anything?
+	- the design of manual command 

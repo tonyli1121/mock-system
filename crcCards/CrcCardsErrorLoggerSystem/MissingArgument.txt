@@ -1,0 +1,8 @@
+Class name: MissingArgument.txt
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Print out error message where the case that the necessary argument is missing
+
+Collaborators:

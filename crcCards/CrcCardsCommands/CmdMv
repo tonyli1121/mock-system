@@ -1,0 +1,13 @@
+Class name: CmdMv
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'mv' command given a user input and a FileSystem
+* Print the path that to be moved, and the path that the contents moved to.
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd

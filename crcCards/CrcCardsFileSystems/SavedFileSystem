@@ -1,0 +1,8 @@
+Class name: SavedFileSystem
+Responsibilities:
+*Store the info for a file system
+*Able to save the file system info in the form of json to a local file
+Collaborators:
+*SavedFile
+*SavedDirectory
+*FileSystem

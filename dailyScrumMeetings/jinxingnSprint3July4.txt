@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Fix bugs
+    - Handle the lines for the functions
+    
+What do I plan to work in the next three days?
+    - Final testing before handing in
+
+Am I blocked on anything?
+    - No

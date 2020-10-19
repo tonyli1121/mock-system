@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Do the final putting together and testing process
+    - Fix bugs and unit testing
+    
+What do I plan to work in the next three days?
+    - Make sure everything is clear and smooth before handing in
+
+Am I blocked on anything?
+    - No

@@ -1,0 +1,10 @@
+a) What did I work on in the last three days? 
+	- tides of testing and debugging
+	- tides of bug fixing
+	- panic after looked at the grading scheme
+b) What do I plan to work in the next three days?
+	- fix problems according to the grading scheme
+	- do final round of testing
+	- add the honor code
+c) Am I blocked on anything?
+	- no

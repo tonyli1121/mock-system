@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Brainstorm for the structure of ErrorLogger System.
+    - Created basic frame for the ErrorLogger class.
+    - Created a basic frame for the documentation file for ErrorLogger System.
+    
+What do I plan to work in the next three days?
+    - Continue working on ErrorLogger class and documentation.
+    - Come up with all error cases and write it into the documentation.
+    - Understand the collaboration and access to other classes such as Directory and FileSystem.
+
+Am I blocked on anything?
+    - Need FileSystem and JShell to access the current Directory and File to see if there is 
+      Error for these.

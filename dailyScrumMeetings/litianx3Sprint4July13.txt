@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Read the requirements for the addition of the functions
+    - Brainstorm algorithms for the tasks
+    
+What do I plan to work in the next three days?
+    - Start working on the basic frames
+
+Am I blocked on anything?
+    - need other teammates to start working

@@ -1,0 +1,5 @@
+Class name: Lib
+Responsibilities:
+*Store the name of the root directory and the path separator.
+Collaborators:
+*

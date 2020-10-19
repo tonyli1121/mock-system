@@ -1,0 +1,11 @@
+Class name: FileSystemLoader
+Responsibilities:
+*Able to load every status into the filesystem from a json file.
+Collaborators:
+*Path
+*Directory
+*File
+*PathStack
+*FileSystem
+*HistoryTracker
+*Lib

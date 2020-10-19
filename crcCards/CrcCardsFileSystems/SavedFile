@@ -1,0 +1,8 @@
+Class name: SavedFile
+Responsibilities:
+*Store the info for a file
+*Able to output the file info in the form of json through SavedFileSystem
+Collaborators:
+*Path
+*File
+*SavedFileSystem

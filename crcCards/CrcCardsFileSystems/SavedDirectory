@@ -1,0 +1,8 @@
+Class name: SavedDirectory
+Responsibilities:
+*Able to store the info of a directory.
+*Able to output the directory info in the form of a json object.
+Collaborators:
+*Path
+*Directory
+*SavedFileSystem

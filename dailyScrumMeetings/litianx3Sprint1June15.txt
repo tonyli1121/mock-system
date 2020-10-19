@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	- brainstormed on design ideas.
+	- started working on Jshell driver
+	- built a helper class file for input
+b) What do I plan to work in the next three days?
+	- finish distinguish methods
+	- finish the tasks for sprint1 if possible
+c) Am I blocked on anything?
+	- command.exit and directory.showCurrentLocation  

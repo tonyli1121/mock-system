@@ -1,0 +1,11 @@
+Class name: CmdLs
+
+Responsibilities:
+* Able to perform the command ls, and handle errors in the process
+* Able to output the information of execution after successfully executed
+* Able to recursively print all the subdirectories of given path
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd

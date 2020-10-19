@@ -1,0 +1,13 @@
+Class name: CmdSave
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'save' command given a user input, a FileSystem and a HistoryTracker.
+* Print the command followed by param
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd

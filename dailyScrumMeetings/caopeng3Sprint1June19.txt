@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Brainstormed for the two of my tasks
+    - Created basic frame for exit command
+    - Created basic frame for manual command
+    
+What do I plan to work in the next three days?
+    - Continue implementing and verifying manual command
+    - Understand the works form others to better collaborate later on
+
+Am I blocked on anything?
+    - Need more knowledge about this to come up with idea faster

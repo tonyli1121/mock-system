@@ -1,0 +1,9 @@
+Class name: HistoryTracker
+
+Responsibilities:
+* Store a stack of command histories
+* Able to push new members to the end of the stack
+* Able to print out the requested number of command history in timely order
+
+Collaborator:
+*

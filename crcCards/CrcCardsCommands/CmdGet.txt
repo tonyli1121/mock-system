@@ -1,0 +1,11 @@
+Class name: CmdGet
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Retrieve contents from website
+
+Collaborators:
+* FileSystem
+* Url

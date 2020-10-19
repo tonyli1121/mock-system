@@ -1,0 +1,9 @@
+Class name: Directory
+Responsibilities:
+*Find out whether or not a file/directory is contained in it.
+*Knows the name of itself, the file and directories stored in it.
+*Able to find and return a file or directory with a specific name.
+*Able to add file and directories to it.
+Collaborators:
+*File
+*Lib

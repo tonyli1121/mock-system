@@ -1,0 +1,8 @@
+Class name: FirstCommandError
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Invoked when load was typed but it was not the first command.
+
+Collaborators:

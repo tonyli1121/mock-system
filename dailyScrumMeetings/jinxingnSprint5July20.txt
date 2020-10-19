@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Fixing bug for ls
+    - Add more errorLogger message to the program
+    
+What do I plan to work in the next three days?
+    - Do the bug fix testing
+    - Put codes together
+
+Am I blocked on anything?
+    - No

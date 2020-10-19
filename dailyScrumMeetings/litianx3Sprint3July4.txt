@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	- finished the assignments
+	- refined
+	- created tests for driver class
+b) What do I plan to work in the next three days?
+	- Take a break
+c) Am I blocked on anything?
+	- the way to 4.0

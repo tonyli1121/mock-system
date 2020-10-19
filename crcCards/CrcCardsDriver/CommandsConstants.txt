@@ -1,0 +1,4 @@
+Class name: CommandsConstants
+
+Responsibilities:
+*Keeps the constant strings for commands (used for validity check)

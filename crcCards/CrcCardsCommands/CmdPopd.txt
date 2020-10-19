@@ -1,0 +1,10 @@
+Class name: CmdPopd
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Execute 'popd' command given user input
+
+Collaborators:
+* FileSystem

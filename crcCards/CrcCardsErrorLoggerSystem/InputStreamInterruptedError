@@ -1,0 +1,8 @@
+Class name: InputStreamInterruptedError
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Invoked when the input stream was forbidden or interrupted.
+
+Collaborators:

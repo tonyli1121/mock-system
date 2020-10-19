@@ -1,0 +1,8 @@
+Class name: FileAlreadyExistError
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Print out error message where the case that file already exists
+
+Collaborators:

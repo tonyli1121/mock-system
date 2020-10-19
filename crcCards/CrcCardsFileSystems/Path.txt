@@ -1,0 +1,11 @@
+Class name: Path
+Responsibilities:
+*Make a copy of itself and return it.
+*Return a string representing the path separated by the separator.
+*Get the layers of directories that made up this path.
+*Pop the first element from the layers, and return it.
+*Read a path from a string.
+*Pop the last element from the layers, and return it.
+*Append a new directory to its layers.
+Collaborators:
+*

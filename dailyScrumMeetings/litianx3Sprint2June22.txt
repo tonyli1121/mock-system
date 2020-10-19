@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Built basic frames for commands
+    - finished most work for sprint2
+    
+What do I plan to work in the next three days?
+    - refine the codes
+    - build error checks
+    - communicate with team members for further design
+
+Am I blocked on anything?
+    - all good

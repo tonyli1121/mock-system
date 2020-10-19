@@ -1,0 +1,8 @@
+Class name: DirectoryNotFound
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Print out error message where the case that the directory not found
+
+Collaborators:

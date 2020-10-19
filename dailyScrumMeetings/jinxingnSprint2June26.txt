@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Finalizing format for Error Logger system
+    - Working on four commands cat, pushd, popd, echo
+    
+What do I plan to work in the next three days?
+    - Fix bugs for the current code
+    - Make sure to handle extreme cases for input
+
+Am I blocked on anything?
+    - No

@@ -1,0 +1,10 @@
+a) What did I work on in the last three days? 
+	- completely finished file system methods
+	- added sub classes for command
+	- starting to assist others
+b) What do I plan to work in the next three days?
+	- coordinates with teammates
+	- assist others
+	- work with errors
+c) Am I blocked on anything?
+	- no

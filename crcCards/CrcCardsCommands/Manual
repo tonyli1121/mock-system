@@ -1,0 +1,5 @@
+Class name: CommandMan
+Responsibilities:
+*Store the documentations of other commands.
+*Able to identify the input command.
+Collaborators:

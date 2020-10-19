@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	- Do researches on ErrorLogger systems in Java
+	- Try to find an appropriate approach on ErrorLogger
+b) What do I plan to work in the next three days?
+	- Build a class frame for ErrorLogger
+	- Design functions for the class
+c) Am I blocked on anything?
+	- No

@@ -1,0 +1,43 @@
+|             User Stories            |  Time(in days)  |
+|=====================================|=================|
+|  As a user, I want the product to be|        1        |
+|able to read and distinguish my input|                 |
+|-------------------------------------|-----------------|
+|  As a user, I want my input(command)|        1        |
+|to be executed                       |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want the program to   |        2        |
+|report an input error if any         |                 |
+|-------------------------------------|-----------------|
+|  The program should be able to      |        1        |
+|navigate into and create folders     |                 |
+|-------------------------------------|-----------------|
+|  As a User, I want to get the URL   |        2        |
+|and be able to store them in a file  |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to know the      |        1        |
+|current working path.                |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want the program to   |        3        |
+|recursively print out all subfiles   |                 |
+|and sub-directories                  |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to be able to    |        1        |
+|move or copy files and directories   |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to be able to    |        1        |
+|get file from external links         |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to be able to    |        6        |
+|save/load the current status of fs   |                 |
+|-------------------------------------|-----------------|
+|  The program should be able to      |        2        |
+|output what is stored in a file      |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to add and       |        1        | 
+|overwrite data in a file             |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want the program to   |        1        |
+|have a command stack that I can push |                 |
+|to and pop from                      |                 |
+|-------------------------------------|-----------------|

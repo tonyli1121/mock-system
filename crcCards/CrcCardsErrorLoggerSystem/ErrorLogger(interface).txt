@@ -1,0 +1,10 @@
+Interface name: ErrorLogger
+Parent class: N/A
+Subclasses: ArgumentFormatError, ArgumentTypeError, CurrentRootDirectory, DirectoryAlreadyExist, 
+	DirectoryNotFound, ExtraArgument, FileNotFound, InvalidCommand, MissingArgument, 
+	SpecialChar, StackEmpty
+
+Responsibilities:
+* Regulates one only method that is printing error message according to the situation provided
+
+Collaborators:

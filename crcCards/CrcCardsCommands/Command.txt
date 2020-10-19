@@ -1,0 +1,13 @@
+Class name: Command
+Interface: ExecutableCmd
+Parent class: N/A
+Subclasses: N/A
+
+Responsibilities:
+* Contains helpful methods to be called for specific commands
+* Further split the arguments to become more accessible 
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ValidityCheck

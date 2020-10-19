@@ -1,0 +1,8 @@
+Class name: ParentDirectoryError
+Parent class: ErrorLogger (interface)
+Subclasses: N/A
+
+Responsibilities:
+* Invoked when the user tries to cp/mv a parent directory to a child directory.
+
+Collaborators:

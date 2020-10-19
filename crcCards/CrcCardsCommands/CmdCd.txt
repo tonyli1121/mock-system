@@ -1,0 +1,12 @@
+Class name: CmdCd
+
+Responsibilities:
+* Able to perform the command cd
+* navigate to given directory
+* report error if dir does not exist
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* Command
+* ExecutableCmd

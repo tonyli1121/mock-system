@@ -1,0 +1,11 @@
+Class name: CmdMkdir
+
+Responsibilities:
+* Able to perform the command mkdir, and handle errors in the process
+* Able to output the information of execution after successfully executed
+
+Collaborators:
+* errorLoggerSystem
+* fileSystem
+* ExecutableCmd
+* ValidityCheck

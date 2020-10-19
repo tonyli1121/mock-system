@@ -1,0 +1,10 @@
+Class name: Input
+
+Responsibilities:
+* Takes inputs and splits into two parts: command and arguments
+* Everytime a input is typed in by user, push to the history stack
+
+Collaborator:
+* ErrorLoggerSystem
+* Command.HistoryTracker
+* I/O

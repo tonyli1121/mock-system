@@ -1,0 +1,36 @@
+|             User Stories            |  Time(in days)  |
+|=====================================|=================|
+|  As a user, I want the product to be|        3        |
+|able to read and distinguish my input|                 |
+|-------------------------------------|-----------------|
+|  As a user, I want my input(command)|        2        |
+|to be executed                       |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want the program to   |        3        |
+|report an input error if any         |                 |
+|-------------------------------------|-----------------|
+|  The program should be able to      |        3        |
+|navigate into and create folders     |                 |
+|-------------------------------------|-----------------|
+|  As a User, I want to track the     |        1        |
+|history of all commands entered      |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to know the      |        1        |
+|current working path.                |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to know what is  |        1        |
+|in a directory                       |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to know the usage|        1        |
+|of all valid commands                |                 |
+|-------------------------------------|-----------------|
+|  The program should be able to      |        2        |
+|output what is stored in a file      |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want to add and       |        2        | 
+|overwrite data in a file             |                 |
+|-------------------------------------|-----------------|
+|  As a user, I want the program to   |        2        |
+|have a command stack that I can push |                 |
+|to and pop from                      |                 |
+|-------------------------------------|-----------------|
