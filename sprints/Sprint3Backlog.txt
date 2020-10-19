@@ -1,0 +1,36 @@
+//Sprint 3 Backlog.  
+June 27 to July 04
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I would like my command to be correctly executed
+b) As a user I want the program to create and modify files and directories
+c) As a user I want the program to handle any input cases and report error if necessary
+d) As a user I want the program to have all functions that matches the description of the commands
+e) As a user I want the program to be user friendly and easy to use
+
+Specific tasks to be accomplished:
+a-1. (ErrorLogger) Complete the final stage of Error Logger system, add all possible errors
+a-2. (Commands) Check the functionality of cat, pushd, popd and echo, fix details if necessary
+a-3. (Commands) check the output and make sure it can handle extreme cases
+a-4. (Commands) check the functionality and output of man
+a-5. (Commands) check the functionality for cd and mkdir
+c-1. (Jshell) Do tests, and have the Jshell to produce appropriate output
+c-2. (Jshell) Work with error, make error reporting more informative
+c-3. (Validity) Create a input checker class
+d-1. (Commands) Check the format of executed output
+e-1. (Jshell) Make the shell more user friendly.
+
+These tasks are assigned as follows:
+
+User: Xingnian Jin
+Tasks: a-1, a-2, a-3
+
+User: Tianxiao Li
+Tasks: c-1, c-2, c-3, e-1, a-5
+
+User: Xuezhi Yan
+Tasks: a-2, a-3, c-2
+
+User: Pengpeng Cao
+Tasks: a-4, d-1

@@ -1,0 +1,33 @@
+//Sprint 5 Backlog.  
+July 18 to July 26
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I would like my command to be correctly executed
+b) As a user I want the program to recursively print out sub-directories
+c) As a user I want the program to handle any input cases and report error if necessary
+d) As a user I want the program to be modified according to the additional requirements
+e) As a user I want the program to be user friendly and easy to use
+
+Specific tasks to be accomplished:
+a-1. (ErrorLogger) Complete the final stage of Error Logger system, add all possible errors
+a-2. (CmdLs) Complete all functions for ls, including -R recursively print
+a-3. (CmdLs) Test with the JShell code and fix bugs
+a-4. (Test) Create unit tests for cmdGet, cd, mkdir, tree, man
+a-5. (Test) Create unit tests for CmdMv, CmdCp
+e-1. (Javadoc) Add Javadocs for instance variables and methods
+d-1. (Test) Test the save/load functions.
+
+These tasks are assigned as follows:
+
+User: Xingnian Jin
+Tasks:a-1, a-2, a-3
+
+User: Tianxiao Li
+Tasks: a-4
+
+User: Xuezhi Yan
+Tasks: a-5, d-1
+
+User: Pengpeng Cao
+Tasks:a-5, e-1

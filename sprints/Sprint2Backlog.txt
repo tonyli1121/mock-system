@@ -1,0 +1,39 @@
+//Sprint 2 Backlog.  
+June 20 to June 26
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want the product to be able to read and distinguish my input.
+b) As a user, I want my input(command) to be executed.          
+c) As a user, I want the program to report an input error if any.
+d) The program should be able to navigate and modify files and folders.
+e) Improved exception handling.
+
+Specific tasks to be accomplished:
+a-1. (JShell) Complete the JShell so it fits requirement
+b-1. (Commands) Build the command class basic structure
+b-2. (Commands) Finish mkdir, cd, ls, pwd, pushd, popd commands
+b-3  (Commands) Test all the commands
+b-4  (Commands) Test error reporting system with all the error types
+c-1. (ErrorLogger) Complete the error report system for user input
+c-2. (ErrorLogger) Complete the documentation for the ErrorLogger System including ErrorCode Chart
+c-3. (ErrorLogger) Writing test class and cases for ErrorLogger System
+d-1. (FileSystem) Fully test all the methods
+d-2. (FileSystem etc.) Fully document every class and methods
+d-3. (FileSystem etc.) Apply error reporting system
+
+
+
+These tasks are assigned as follows:
+
+User: Xingnian Jin
+Tasks: c-1, c-2, c-3
+
+User: Tianxiao Li
+Tasks: a-1, b-1, b-2
+
+User: Xuezhi Yan
+Tasks: d-1, d-2, d-3
+
+User: Pengpeng Cao
+Tasks: b-3, b-4

@@ -1,0 +1,36 @@
+//Sprint 1 Backlog.  
+June 13 to June 19
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want the product to be able to read and distinguish my input.
+b) As a user, I want my input(command) to be executed.          
+c) As a user, I want the program to report an input error if any.
+d) The program should be able to navigate and modify files and folders.
+e) Improved exception handling.
+
+Specific tasks to be accomplished:
+a-1. (JShell) Begin coding the structure of the command line interpreter
+a-2. (JShell) Have the shell continually prompt the user for input
+a-3. (JShell) Parse the user input for proper keywords
+b-1. (Command)Build the exit command
+b-2. (Command)Build the manual command
+c-1. (ErrorLogger)Create a basic error report system
+d-1. (File)Create a File Class that supports reading and writing
+d-2. (Directory)Create a Directory Class that supports storage and navigation
+d-3. (FileSystem)Create a FileSystem Class that assists file and directory creation
+e-1. (ErrorLogger)Able to report fileNotFound and directoryNotFound errors
+
+These tasks are assigned as follows:
+
+User: Tianxiao Li
+Tasks: a-1, a-2, a-3
+
+User: Xingnian Jin
+Tasks: c-1, e-1
+
+User: Pengpeng Cao
+Tasks: b-1, b-2
+
+User: Xuezhi Yan
+Tasks: d-1, d-2, d-3

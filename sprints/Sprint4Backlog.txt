@@ -1,0 +1,37 @@
+//Sprint 4 Backlog.  
+July 11 to July 17
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I would like my command to be correctly executed
+b) As a user I want the program to recursively print out sub-directories
+c) As a user I want the program to handle any input cases and report error if necessary
+d) As a user I want the program to be modified according to the additional requirements
+e) As a user I want the program to be user friendly and easy to use
+
+Specific tasks to be accomplished:
+a-1. (ErrorLogger) Add possible more error cases according to the additional features
+a-2. (ErrorLogger) Format the error prints better with display
+a-3. (CmdLs) Building frames for the new ls command based on additional features
+a-4. (CmdGet) Finish building command get
+a-4. (CmdMv) Finish building command mv
+a-5. (CmdCp) Finish building command cp
+a-6. (CmdTree) Finish building command tree
+c-1. (Validity) update input error checks so that the shell accepts new commands
+d-1. (Input) allow the shell to accept modified requirements 
+d-2. (Save) Implement the json save format.
+d-3. (Load) Design the loading pattern.
+
+These tasks are assigned as follows:
+
+User: Xingnian Jin
+Tasks: a-1, a-2, a-3
+
+User: Tianxiao Li
+Tasks: a-4, c-1, d-1
+
+User: Xuezhi Yan
+Tasks: a-5, a-6, d-2, d-3
+
+User: Pengpeng Cao
+Tasks:a-4, a-5
