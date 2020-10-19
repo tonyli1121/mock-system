@@ -1,0 +1,56 @@
+Get test cases:
+
+1. website = https://www.w3.org/TR/PNG/iso_8859-1.txt
+	result: created at current location, has contents
+	
+2. website = https://www.w3.org/TR/PNG/iso_8859-1.txt/
+	result: error
+	
+3. repeated step
+	result: file already exist error
+
+4. https://www.w3.org/TR/PNG/sadfaakf
+	result: error
+	
+5. abc
+	result: error(invalid url)
+	
+Man test cases:
+
+1. all commands
+	result: print something, no error
+	
+2. invalid command
+	result: print nothing, error
+	
+Tree test cases:
+
+1. error
+2. 
+
+Directory test cases:
+
+1. Create new directory
+2. Add a file to the directory
+3. Add a directory to the directory
+4. Test if a file exists
+5. Test if a directory exists
+6. Test getting a file
+7. Test getting a directory
+8. Test getting a none-existing file
+9. Test getting a none-existing directory
+10. Test get all sub elements
+11. Test removing a directory
+12. Test removing a file
+(branch, saveInto and copyInto are tested in the Execution class as they can't work by themselves)
+
+File test cases:
+
+1. Create new file
+2. Create new file with data
+3. Append new data
+(copyInto is tested with the execution class, and basic getters and setters weren't tested)
+
+FileSystemLoader test cases:
+
+1. Load a FileSystem with directories, files, path stack, current directory and history.
